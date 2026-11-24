@@ -1,0 +1,6 @@
+{
+  "name": "Synthesis — Operational Intelligence Platform",
+  "description": "Unify product telemetry, engineering workflows, and executive reporting into one operational workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
